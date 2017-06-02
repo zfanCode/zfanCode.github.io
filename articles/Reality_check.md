@@ -2,7 +2,6 @@
 # Reality Check
 
 Self-Expectation (self-image):
-
     - I can gain understanding in a short period of time.
         - Expect myself to fully understand something in simply one pass of the materials.
     - I can solve questions sophisticatedly without doing much practice.
@@ -14,7 +13,6 @@ Self-Expectation (self-image):
     - Learning only requires one pass of refactoring.
 
 Reality: (in the past)
-
     - I read the notes for 4-6 times. 
         - I didn't understand everything by simply one pass of the material. 
         - I gain new understanding and refactor it in each pass (not that I refactor fully by simply one pass)
