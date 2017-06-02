@@ -2,8 +2,9 @@
 # Reality Check
 
 Self-Expectation (self-image):
-    - I can gain understanding in a short period of time.
-        - Expect myself to fully understand something in simply one pass of the materials.
+
+- I can gain understanding in a short period of time.
+    - Expect myself to fully understand something in simply one pass of the materials.
     - I can solve questions sophisticatedly without doing much practice.
         - Expect myself to do fast computation even if I don't have enough practice.
     - I can understand and follow the lectures fully everytime and come up with good questions. 
