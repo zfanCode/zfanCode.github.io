@@ -3,6 +3,8 @@ Develop systematic studying techniques to be efficient.
 
 # Current Topics
 
+- Misconception [Reality Check](./articles/Reality_check.md)
+
 ## Tools
 
 - Refactoring
