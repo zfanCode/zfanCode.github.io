@@ -21,6 +21,7 @@ Develop systematic studying techniques to be efficient.
 
 - Learning Theory
 - Bootstraping
+- [Understanding Notes](./articles/Understanding_material.md)
 
 
 
